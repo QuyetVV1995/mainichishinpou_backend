@@ -1,9 +1,9 @@
+#### Mainichishinpou
 Java: 1.8
 
 IDE: IntelliJ
 
 Database: Mysql workbench version 8
-
 
 Cấu trúc thư mục 
 
@@ -30,3 +30,4 @@ resources
 * test: chứa các lớp test
 
 * pom.xml: file quản lý maven
+
